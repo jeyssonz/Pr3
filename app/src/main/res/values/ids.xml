@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="linear_layout_tags" type="id" />
+    <item name="contenedor" type="id">contenedor</item>
+</resources>
